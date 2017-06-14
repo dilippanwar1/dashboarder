@@ -1,0 +1,7 @@
+*.pyc
+.kube
+target/
+build/
+dist/
+.DS_store
+*.csv

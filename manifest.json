@@ -1,0 +1,9 @@
+{
+    "name": "dashboarder",
+    "description": "Simple long-run task scheduler with celery",
+    "contact_email": "joey.stockermans@soundcloud.com",
+    "owner": "Data Science",
+    "status": "production",
+    "data_sensitivity": [],
+    "dependencies": []
+}
